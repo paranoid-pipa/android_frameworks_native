@@ -347,7 +347,6 @@ cc_library_shared {
     ],
 
     afdo: true,
-    lto_Instr100: true,
 
     lto: {
         thin: true,
